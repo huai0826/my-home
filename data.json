@@ -1,0 +1,57 @@
+{
+  "iconList": [
+    {
+      "icon": "assets/images/icon/mail.svg",
+      "url": "mailto:2369122531@qq.com"
+    },
+    {
+      "icon": "assets/images/icon/bilibili.svg",
+      "url": "https://space.bilibili.com/22193756"
+    },
+    {
+      "icon": "assets/images/icon/weibo.svg",
+      "url": "https://weibo.com/u/2702499423"
+    },
+    {
+      "icon": "assets/images/icon/github.svg",
+      "url": "https://github.com/huai0826"
+    },
+    {
+      "icon": "assets/images/icon/telegram.svg",
+      "url": "https://t.me/uninto"
+    }
+  ],
+
+  "lineList": [
+    {
+      "time": "2023-11-25",
+      "text": "敬请期待"
+    },
+    {
+      "time": "2024-03-25",
+      "text": "注册域名"
+    }
+  ],
+
+  "siteList": [
+    {
+      "name": "必应",
+      "content": "必应搜索",
+      "url": "https://cn.bing.com/",
+      "status": true
+    },
+    {
+      "name": "Huai-Api",
+      "content": "免费api服务",
+      "url": "http://api.mhycloud.fun:81/",
+      "status": true
+    },
+
+    {
+      "name": "有趣",
+      "content": "随机小姐姐",
+      "url": "http://if.mhycloud.fun:81/",
+      "status": true
+    }
+  ]
+}
