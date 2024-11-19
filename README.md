@@ -19,7 +19,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="[https://twitter.com/sun0225SUN](https://x.com/xiaobuhuo9036)/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="[https://x.com/xiaobuhuo9036](https://x.com/xiaobuhuo9036)/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://blog.mhycloud.fun:81/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <a href="https://space.bilibili.com/22193756/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
