@@ -43,14 +43,14 @@
     {
       "name": "Huai-Api",
       "content": "免费api服务",
-      "url": "http://api.mhycloud.fun:81/",
+      "url": "http://api.huaiyan.top:81/",
       "status": true
     },
 
     {
       "name": "有趣",
       "content": "随机小姐姐",
-      "url": "http://if.mhycloud.fun:81/",
+      "url": "http://if.huaiyan.top:81/",
       "status": true
     }
   ]
